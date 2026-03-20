@@ -12,7 +12,7 @@
     "editor.wordHighlightStrongBackground":     "#3C4159AA",
     "editor.findMatchBackground":               "#FFCB6B44",
     "editor.findMatchHighlightBackground":      "#FFCB6B22",
-    "editor.hoverHighlightBackground":          "#7f85a0",
+    "editor.hoverHighlightBackground":          "#303446",
     "editorLineNumber.foreground":              "#3A3F5C",
     "editorLineNumber.activeForeground":        "#FFCB6B",
     "editorCursor.foreground":                  "#FFCB6B",
