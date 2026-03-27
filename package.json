@@ -2,7 +2,7 @@
   "name": "mononight-pro",
   "displayName": "MonoNight Pro",
   "description": "Palenight backgrounds with Monokai, Material, and One Dark Pro syntax colors.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "publisher": "abhisheksankpal",
   "author": {
@@ -33,8 +33,14 @@
       {
         "label": "MonoNight Pro",
         "uiTheme": "vs-dark",
-        "path": "./themes/MonoNight Pro-color-theme.json"
+        "path": "./themes/MonoNight Pro.json"
+      },
+      {
+        "label": "MonoNight Balanced ",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MonoNight Balanced.json"
       }
+
     ]
   },
   "repository": {
