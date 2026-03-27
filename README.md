@@ -1,16 +1,40 @@
-# mononight-pro README
+# MonoNight Pro
 
-## Working with Markdown
+A beautiful dark theme for VS Code that combines **Palenight backgrounds** with vibrant **Monokai, Material, and One Dark Pro** syntax colors.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## ✨ Features
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- 🌙 **Two variants**: MonoNight Pro & MonoNight Balanced
+- 🎨 **Perfect color harmony**: Palenight UI with premium syntax highlighting
+- 👁️ **Easy on the eyes**: Carefully crafted for long coding sessions
+- 🔥 **Popular syntax themes**: Best of Monokai, Material, and One Dark Pro
 
-## For more information
+## 🚀 Installation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Open VS Code
+2. Go to Extensions (`Ctrl+Shift+X`)
+3. Search for "MonoNight Pro"
+4. Click Install
+5. Go to Settings → Color Theme → Select **MonoNight Pro** or **MonoNight Balanced**
 
-**Enjoy!**
+## 📸 Preview
+
+<!-- Add theme screenshots here -->
+
+## 🛠️ Development
+
+```bash
+git clone https://github.com/abhisheks-12/MonoNight-Pro
+cd MonoNight-Pro
+code .
+```
+
+Press `F5` to open a new Extension Development Host window to test the theme.
+
+## 📝 License
+
+MIT © [Abhishek Sankpal](https://github.com/abhisheks-12)
+
+---
+
+**Enjoy coding with MonoNight Pro!** ⭐
